@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Ardizhubi.aternos.me",
+    "port": 48335,
+    "version": "1.20.6"
   },
   "position": {
     "enabled": true,
@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 60,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Teo is my only creator others are fake",
+        "Teo is my original creator",
+        "Thanks to Teo this server is 24/7!"
       ]
     },
     "chat-log": true,
