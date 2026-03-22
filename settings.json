@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 30,
       "messages": [
-        "Teo made it possible to keep ur serve 24/7",
-        "Teo is the original maker!",
-        "Teo is my coder!"
+        "hi",
+        "",
+        ""
       ]
     },
     "chat-log": true,
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "http",
     "events": {
       "connect": true,
       "disconnect": true,
